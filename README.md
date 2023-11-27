@@ -32,4 +32,4 @@ Constraints:
 The system should be scalable to handle a growing number of subscribers without compromising performance.
 Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
-![Uploading observerpattern.png…]()
+![observerpattern](https://github.com/ItsMaynardk/Observer/assets/142737277/11e02117-786b-4308-9b20-f961d668b2d2)
